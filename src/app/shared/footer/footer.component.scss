@@ -1,4 +1,4 @@
-.footer-container{
+footer {
     background-color: #0A141E;
     display: flex;
     justify-content: space-between;
@@ -6,13 +6,11 @@
     height: 120px;
     padding-left: 160px;
     padding-right: 160px;
+    >img {
+        height: 44px;
+    }
 }
 
-.footer-container img {
-    height: 44px;
-}
-
-.sozial_media {
-    display: flex;
-    gap: 1rem;
+a {
+    color: white;
 }
