@@ -1,3 +1,13 @@
+h2 {
+    font-family: 'Raleway';
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+    color: #9F0908;
+    padding-top: 120px;
+    margin: 0px;
+}
+
 .our_menu{
     background-image: url('../../../assets/img/3_section_our_menu/JPG/section_our_menu_bg.jpg');
     background-size: cover ;
@@ -50,5 +60,6 @@ table {
     border-spacing: 0;
     padding: 0px 80px 0px 80px;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
 }

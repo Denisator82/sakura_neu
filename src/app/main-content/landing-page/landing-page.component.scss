@@ -1,16 +1,18 @@
-h1, h2 {
+h1, span {
     color: whitesmoke
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 96px;
     margin-top: 140px;
     margin-bottom: 0px;
 }
 
-h2{
-    font-size: 32px;
-    margin-bottom: 30%;
+span{
+    font-family: 'Raleway';
+    font-size: 24px;
+    padding: 8px 10px 64px 10px;
+    text-align: center;
 }
 
 div{
