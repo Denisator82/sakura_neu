@@ -1,11 +1,9 @@
 footer {
+    max-width: 1440px;
     background-color: #0A141E;
     display: flex;
-    justify-content: space-between;
     align-items: center;
     height: 120px;
-    padding-left: 160px;
-    padding-right: 160px;
     >img {
         height: 44px;
     }
