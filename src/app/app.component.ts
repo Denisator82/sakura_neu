@@ -12,8 +12,9 @@ import { ImprintComponent } from "./imprint/imprint.component";
     CommonModule,
     RouterOutlet,
     MainContentComponent,
-    FooterComponent, 
-    ImprintComponent],
+    FooterComponent,
+    ImprintComponent
+],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
